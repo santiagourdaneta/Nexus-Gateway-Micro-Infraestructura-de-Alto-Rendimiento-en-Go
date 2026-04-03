@@ -1,0 +1,10 @@
+# Binarios
+nexus-gateway
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Variables de entorno
+.env
